@@ -11,7 +11,7 @@ if u wanna add me send join my discord server [Github](https://discord.gg/swindl
 all of my repositories are available at [Github](https://github.com/1DF9-v?tab=repositories)
 
 
-(https://discord.c99.nl/widget/theme-1/475456425062301696.png)](https://discord.c99.nl/)
+<p align="left"></a> <a href="https://discord.gg/swindle" target="_blank" rel="noreferrer"> <img src="https://discord.c99.nl/widget/theme-1/475456425062301696.png" alt="ace" width="40" height="40"/> </a> </p>
 
 <h3 align="left">discord server : </h3>
 <p align="left">
