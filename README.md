@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/1df9-v" alt="Total Forks"></a>
 </p>
 
-if u wanna add me send join my discord server [discord](https://discord.gg/4E7bD58bHD) or add me h778m
 
 all of my repositories are available at [Github](https://github.com/1DF9-v?tab=repositories)
 
