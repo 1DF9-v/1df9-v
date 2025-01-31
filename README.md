@@ -10,12 +10,6 @@
 all of my repositories are available at [Github](https://github.com/1DF9-v?tab=repositories)
 
 
-[![H7#0842]([[https://discord.c99.nl/widget/theme-1/475456425062301696.png](https://discord.c99.nl/widget/theme-1/1078602902622445608.png)](https://discord.c99.nl/widget/theme-1/1078602902622445608.png))](https://discord.c99.nl/)
-
-<h3 align="left">discord server : </h3>
-<p align="left">
-<a href="https://discord.gg/swindle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/swindle" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">languages that i use or i know : </h3>
 <p align="left"></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
